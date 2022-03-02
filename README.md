@@ -1,2 +1,2 @@
-# Garche-SARIMA-based-Hybrid-LSTM-GARCHE-model-for-NASDAQ-Stock-PredictiNASDAQ-Forecasting-Algorithm
+# Hybrid-LSTM-GARCHE-model-for-NASDAQ-Stock-Prediction-Forecasting-Algorithm
 To create a data-web application deployed using the azure app service, which was made on Streamlit, the leading Pythonic data application service. On this website, we display candlestick plots of various stocks listed on the Nasdac, according to the option of the user; and utilize the Garch based time forecasting algorithm done using Seasonal arima model and conduct a virtual future prediction for the given stock, so as to be able to conduct non-pairs algorithmic trading using time forecasting and Garch-based deep learning.
